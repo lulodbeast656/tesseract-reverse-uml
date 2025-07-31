@@ -44,7 +44,8 @@ To help:
 
 Documentation derived from publicly available Tesseract source code.  
 Distributed under the same license: Apache License 2.0
-<img width="3840" height="2090" alt="1" src="https://github.com/user-attachments/assets/90f20036-2b64-4453-b07a-1a1d499b18c1" />
+<img width="3840" height="1890" alt="1" src="https://github.com/user-attachments/assets/3560fac1-4909-4836-b9a9-0c43e79ba3ab" />
 
-<img width="3840" height="2090" alt="Capturar" src="https://github.com/user-attachments/assets/6cabd40e-9a1f-4f59-8e75-98376c1b327b" />
+<img width="3836" height="1884" alt="Capturar" src="https://github.com/user-attachments/assets/9046a68e-ec8c-4dcb-b2a8-b1601901075e" />
+
 
