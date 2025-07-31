@@ -2,7 +2,7 @@
 
 The documentation consists of multiple interlinked HTML files.
 
- To view the full UML and documentation, open:
+ To get started: just download the repo and open html/index.html in your browser:
 
 html/index.html
 
